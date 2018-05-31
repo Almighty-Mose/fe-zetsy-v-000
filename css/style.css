@@ -49,6 +49,15 @@ p {
 	border: 5px rgb(152, 173, 166) solid;
 }
 
+#featured a {
+	color: #1783bb;
+	text-decoration: none;
+}
+
+#featured a:hover {
+	text-decoration: underline;
+}
+
 header a {
 	color: rgb(152, 173, 166);
 	text-decoration: none;
