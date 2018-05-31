@@ -49,11 +49,6 @@ img {
 	border: 5px rgb(152, 173, 166) solid;
 }
 
-#press img {
-	border: 5px #ccc solid;
-	padding: 1px;
-}
-
 header a {
 	color: rgb(152, 173, 166);
 	text-decoration: none;
@@ -61,4 +56,13 @@ header a {
 
 header a:hover {
 	color: rgb(111, 127, 122);
+}
+
+#press img {
+	border: 5px #ccc solid;
+	padding: 1px;
+}
+
+#press a:hover {
+	border: 5px rgb(111, 127, 122) solid;
 }
