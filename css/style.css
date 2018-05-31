@@ -63,6 +63,12 @@ header a:hover {
 	padding: 1px;
 }
 
+#press a {
+	text-decoration: none;
+}
+
 #press a:hover {
 	border: 5px rgb(111, 127, 122) solid;
 }
+
+
