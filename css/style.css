@@ -50,6 +50,10 @@ img {
 	padding: 1px;
 }
 
+header a {
+	color: #ccc;
+}
+
 header a:hover {
 	color: #555;
 }
